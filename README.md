@@ -264,6 +264,3 @@ GROUP BY category;
 - **Content Categorization:** Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
 
 
-
-## Author - Zero Analyst
-
